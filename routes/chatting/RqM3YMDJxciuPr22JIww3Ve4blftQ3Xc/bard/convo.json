@@ -1,0 +1,70 @@
+[
+  {
+    "role": "user",
+    "content": "hello sir"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello there! How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "how are you baby doll?"
+  },
+  {
+    "role": "assistant",
+    "content": "I am doing well, thank you for asking! I am excited to be able to help people with their tasks and answer their questions. I am still under development, but I am learning new things every day. How are you doing today?"
+  },
+  {
+    "role": "user",
+    "content": "asd"
+  },
+  {
+    "role": "user",
+    "content": "hey man"
+  },
+  {
+    "role": "assistant",
+    "content": "Hey there! How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": 0
+  },
+  {
+    "role": "user",
+    "content": "hey man"
+  },
+  {
+    "role": "assistant",
+    "content": "Hey there! How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "hello there"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello there! How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "hey how are you doing ?"
+  },
+  {
+    "role": "assistant",
+    "content": "I am doing well, thank you for asking! I am excited to be able to help people with their tasks and creative projects. I am still under development, but I am learning new things every day. How are you doing today?"
+  },
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello there! How can I help you today?"
+  }
+]
